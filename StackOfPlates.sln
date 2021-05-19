@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "StackOfPlates", "StackOfPlates\StackOfPlates.pyproj", "{CF55F4BE-932B-4C22-8740-C9312C71006F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF55F4BE-932B-4C22-8740-C9312C71006F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF55F4BE-932B-4C22-8740-C9312C71006F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30FEF296-8485-4CF8-8A5D-E1F3D4FB5D44}
+	EndGlobalSection
+EndGlobal
